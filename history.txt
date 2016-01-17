@@ -1,0 +1,8 @@
+    1  python --version
+    2  ls
+    3  ls
+    4  cd python_data/
+    5  jupyter notebook
+    6  jupyter notebook
+    7  history
+    8  history > history.txt
