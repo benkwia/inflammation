@@ -7,4 +7,3 @@ def main():
     data = numpy.loadtxt(filename, delimiter=',')
     for m in data.mean(axis=1):
         print(m)
-main ()
